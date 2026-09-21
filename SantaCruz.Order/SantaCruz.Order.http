@@ -1,0 +1,6 @@
+@SantaCruz.Order_HostAddress = http://localhost:5273
+
+GET {{SantaCruz.Order_HostAddress}}/order
+Accept: application/json
+
+###
