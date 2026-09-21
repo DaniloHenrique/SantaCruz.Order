@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaCruz.Order", "SantaCruz.Order\SantaCruz.Order.csproj", "{A920C84E-B91E-4565-835D-5A91A2379A91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaCruz.Api", "SantaCruz.Order\SantaCruz.Api.csproj", "{A920C84E-B91E-4565-835D-5A91A2379A91}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaCruz.Application", "SantaCruz.Application\SantaCruz.Application.csproj", "{A914BD3B-8892-4E77-820C-B5046CBC3F26}"
 EndProject
